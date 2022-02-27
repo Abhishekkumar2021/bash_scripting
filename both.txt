@@ -1,0 +1,10 @@
+total 20
+drwxr-xr-x 2 abhishek abhishek 4096 Feb 27 18:58 .
+drwxr-xr-x 4 abhishek abhishek 4096 Feb 27 15:14 ..
+-rwxr-xr-x 1 abhishek abhishek 2660 Feb 27 18:16 bash.sh
+-rw-r--r-- 1 abhishek abhishek    0 Feb 27 18:59 both.txt
+-rwxr-xr-x 1 abhishek abhishek  174 Feb 27 18:59 script_output.sh
+-rw-r--r-- 1 abhishek abhishek    0 Feb 27 18:59 stderr.txt
+-rw-r--r-- 1 abhishek abhishek  413 Feb 27 18:59 stdout.txt
+
+This is appended into both.txt
